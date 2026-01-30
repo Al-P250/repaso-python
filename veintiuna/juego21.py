@@ -12,7 +12,7 @@ def verAses(mano):
 
 def sacarCarta(mano,baraja,veces):
     for i in range(veces):
-        ultimaCarta=baraja.pop()
+        ultimaCarta=baraja.poblacion()
         mano.append(ultimaCarta)
     verAses(mano)
 
