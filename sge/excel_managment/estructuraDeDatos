@@ -1,0 +1,11 @@
+bbdd{
+    "nación":"United States of America",
+    "estados":{
+            "condados":{
+                "poblacion_condado":0,
+                "tracs_condado":0
+                },
+            "poblacion_estado":0,
+            "condados_estado":0
+            }
+}
