@@ -1,0 +1,19 @@
+{
+  "nombre": "Gliscor",
+  "tipos": ["tierra","volador"],
+  "movimientos": [
+    {
+      "move_name": "earthquake",
+      "move_power": 100,
+      "move_pp": 10
+    }
+  ],"stats": {
+      "hp":75,
+      "attack": 69,
+      "defense": 125,
+      "special-attack":45,
+      "special-defense":75,
+      "speed": 95
+    }
+}
+
